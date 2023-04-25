@@ -1,0 +1,15 @@
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\bin\Debug\net6.0\HelpDeskTicketingSystem.exe
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\bin\Debug\net6.0\HelpDeskTicketingSystem.deps.json
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\bin\Debug\net6.0\HelpDeskTicketingSystem.runtimeconfig.json
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\bin\Debug\net6.0\HelpDeskTicketingSystem.dll
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\bin\Debug\net6.0\HelpDeskTicketingSystem.pdb
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\obj\Debug\net6.0\HelpDeskTicketingSystem.csproj.AssemblyReference.cache
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\obj\Debug\net6.0\HelpDeskTicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\obj\Debug\net6.0\HelpDeskTicketingSystem.AssemblyInfoInputs.cache
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\obj\Debug\net6.0\HelpDeskTicketingSystem.AssemblyInfo.cs
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\obj\Debug\net6.0\HelpDeskTicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\obj\Debug\net6.0\HelpDeskTicketingSystem.dll
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\obj\Debug\net6.0\refint\HelpDeskTicketingSystem.dll
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\obj\Debug\net6.0\HelpDeskTicketingSystem.pdb
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\obj\Debug\net6.0\HelpDeskTicketingSystem.genruntimeconfig.cache
+C:\Users\Madhan\Source\Repos\HelpDeskTicketingSystem\HelpDeskTicketingSystem\obj\Debug\net6.0\ref\HelpDeskTicketingSystem.dll
