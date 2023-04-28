@@ -4,4 +4,4 @@
  
 Output Screen
 
-![This is an image](https://github.com/MadhanKAMALAKANNAN/HelpDeskTicketingSystem/blob/main/HelDeskTicketingSystem.png)
+![This is an image](https://github.com/MadhanKAMALAKANNAN/HelpDeskTicketingSystem/blob/master/HelpDeskTicketingSystem.png)
